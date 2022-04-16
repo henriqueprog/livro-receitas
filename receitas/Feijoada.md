@@ -12,3 +12,5 @@
 - sal a gosto
 - pimenta do reino
 
+### Modo de Preparo: 
+
